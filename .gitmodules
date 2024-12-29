@@ -1,0 +1,4 @@
+[submodule "hexagonal"]
+	path = hexagonal
+	url = https://github.com/nettee-space/backend-sample-hexagonal-simple-crud.git
+    branch = main
