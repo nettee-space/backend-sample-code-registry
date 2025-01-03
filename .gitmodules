@@ -2,3 +2,6 @@
 	path = hexagonal
 	url = https://github.com/nettee-space/backend-sample-hexagonal-simple-crud.git
     branch = main
+[submodule "layered"]
+	path = layered
+	url = https://github.com/nettee-space/backend-sample-layered-simple-crud.git
